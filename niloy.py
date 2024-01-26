@@ -1,4 +1,9 @@
-#Create By: MUMIT ISLAM HIMU
+pkg update
+pkg upgrade
+pkg install python
+git clone https://github.com/Niloy1188/NILOY.git
+cd /NILOY
+python save. py#Create By: MUMIT ISLAM HIMU
 #FaceBook: Mumit Islam
 #GitHub: https://github.com/MUMIT-404-CYBER
 #---------------------------------------------------------------------------#
